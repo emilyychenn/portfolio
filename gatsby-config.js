@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://zen-tesla-0f162d.netlify.app/`,
+    siteUrl: `https://emilylynnchen.netlify.app/`,
     // Your Name
     name: 'Hi, I\'m Emily Chen 👋',
     // Main Site Title
@@ -22,25 +22,25 @@ module.exports = {
         name: 'DianthUS',
         description:
           'An application designed to help caretakers manage and effectively support kids with special needs. \nWinner of Kabam\'s Best UX/UI Design \n Winner of Hootsuite’s #SocialForGood award \n Winner of Telus\'s \'Leverage technology to manage/improve any mental health related issue\' award \nCreated at the CMD-F Hackathon at UBC. Find the project on [Devpost](https://devpost.com/software/dianthus) or on [Github](https://github.com/emilyychenn/DIANTHUS)',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/emilyychenn/DIANTHUS',
       },
       {
         name: 'pyLeafletTiler',
         description:
           'Application to create tiles of histo images to allow display using the [Leaflet Javascript Library](https://leafletjs.com/)',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+        link: 'https://git.sarlab.ca/DrSAR/pyleaflettiler',
       },
       {
         name: 'ArduCryoFridge',
         description:
-          'Arduino control of the PT410 Cryorefrigeratror which is used to keep the lab\'s 7T Bruker Magnet running.',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Arduino control of the PT410 Cryorefrigerator which is used to keep the lab\'s 7T Bruker Magnet running.',
+        link: 'https://git.sarlab.ca/DrSAR/arducryofridge',
       },
       {
         name: 'Lendr',
         description:
-          'Money Loaning Tracker. View a [video walkthrough](https://www.youtube.com/watch?v=aqcrxWnILhY&feature=youtu.be&ab_channel=EmilyChen) or view the project on [Github](https://github.com/emilyychenn/lendr).',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Money Loaning Tracker. View a [video walkthrough](https://www.youtube.com/watch?v=aqcrxWnILhY&feature=youtu.be&ab_channel=EmilyChen).',
+        link: 'https://github.com/emilyychenn/lendr',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -88,13 +88,13 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     path: `${__dirname}/content/blog`,
+    //     name: `blog`,
+    //   },
+    // },
     {
       resolve: `gatsby-transformer-remark`,
       options: {

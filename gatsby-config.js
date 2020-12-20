@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://zen-tesla-0f162d.netlify.app/`,
     // Your Name
     name: 'Emily Chen',
     // Main Site Title
     title: `Emily Chen`,
     // Description that goes under your name in main bio
-    description: `Cellular, Physiological & Anatomical Science and Computer Science student at the University of British Columbia.`,
+    description: `Student at the University of British Columbia.`,
     // Optional: Twitter account handle
     // author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,23 +15,23 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/emily-c-55680b124/`,
     // Content of the About Me section
-    about: `I'm a motivated full-stack engineer who has experience building and scaling web applications and services in various domains. I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.`,
+    about: `I'm a motivated second year student currently studying Cellular, Physiological & Anatomical Sciences and Computer Science, who has experience building and scaling web applications and services in various domains. I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'DianthUS',
         description:
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'pyLeafletTiler',
         description:
           'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'ArduCryoFridge',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
         link: 'https://github.com/RyanFitzgerald/devfolio',
@@ -40,19 +40,19 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'CPSC 110 Teaching Assistant - Department of Computer Science',
+        description: 'University of British Columbia, September 2020 - Present',
+        // link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Research Assistant - SAR Lab',
+        description: 'University of British Columbia, May 2020 - August 2020',
+        // link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Volunteer Scratch and Web Development Instructor',
+        description: 'C.O.D.E. Initiative, July 2020 - Present',
+        // link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,7 +60,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, Python, C++, HTML, CSS, JavaScript',
       },
       {
         name: 'Databases',

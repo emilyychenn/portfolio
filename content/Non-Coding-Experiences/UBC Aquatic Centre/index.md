@@ -1,7 +1,7 @@
 ---
-title: My First Blog Post
+title: Lifeguard and Swimming Instructor
 date: '2020-09-20T12:00:00.00Z'
-description: 'Ducimus perferendis porro cumque ea error ab voluptatem'
+description: 'UBC Aquatic Centre, Sep 2019 - Present'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

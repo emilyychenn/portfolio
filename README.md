@@ -1,7 +1,5 @@
 # Hello, I'm Emily 👋
 
-Created from the Devfolio template by @RyanFitzgerald. Devfolio is a template built on GatsbyJS and styled with TailwindCSS. 
-
 ## About Me
 - Second year student at the University of British Columbia
 - Studying Cellular, Anatomical and Physiological Sciences and Computer Science
@@ -13,5 +11,7 @@ Created from the Devfolio template by @RyanFitzgerald. Devfolio is a template bu
 
 
 ## License
+
+Created from the Devfolio template by @RyanFitzgerald. Devfolio is a template built on GatsbyJS and styled with TailwindCSS. 
 
 Licensed under the [MIT License](https://github.com/RyanFitzgerald/devfolio/blob/master/LICENSE.md).

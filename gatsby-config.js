@@ -88,13 +88,13 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/content/blog`,
-    //     name: `blog`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/Non-CodingExperiences`,
+        name: `Other Experiences`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {

@@ -3,7 +3,7 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://zen-tesla-0f162d.netlify.app/`,
     // Your Name
-    name: 'Emily Chen',
+    name: 'Hi, I\'m Emily Chen 👋',
     // Main Site Title
     title: `Emily Chen`,
     // Description that goes under your name in main bio
@@ -21,19 +21,25 @@ module.exports = {
       {
         name: 'DianthUS',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'An application designed to help caretakers manage and effectively support kids with special needs. \nWinner of Kabam\'s Best UX/UI Design \n Winner of Hootsuite’s #SocialForGood award \n Winner of Telus\'s \'Leverage technology to manage/improve any mental health related issue\' award \nCreated at the CMD-F Hackathon at UBC. Find the project on [Devpost](https://devpost.com/software/dianthus) or on [Github](https://github.com/emilyychenn/DIANTHUS)',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'pyLeafletTiler',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'Application to create tiles of histo images to allow display using the [Leaflet Javascript Library](https://leafletjs.com/)',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
         name: 'ArduCryoFridge',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+          'Arduino control of the PT410 Cryorefrigeratror which is used to keep the lab\'s 7T Bruker Magnet running.',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+      {
+        name: 'Lendr',
+        description:
+          'Money Loaning Tracker. View a [video walkthrough](https://www.youtube.com/watch?v=aqcrxWnILhY&feature=youtu.be&ab_channel=EmilyChen) or view the project on [Github](https://github.com/emilyychenn/lendr).',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],

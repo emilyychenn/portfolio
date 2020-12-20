@@ -27,7 +27,8 @@ module.exports = {
       {
         name: 'PyLeafletTiler',
         description:
-          'Application to create tiles of histo images to allow display using the [Leaflet Javascript Library](https://leafletjs.com/)',
+          'Application to create tiles of histo images to allow display using the '
+          <a href="https://leafletjs.com/">Leaflet Javascript Library</a>,
         link: 'https://git.sarlab.ca/DrSAR/pyleaflettiler',
       },
       {

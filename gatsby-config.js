@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/emily-c-55680b124/`,
     // Content of the About Me section
-    about: `I'm a motivated second year student currently studying Cellular, Physiological & Anatomical Sciences and Computer Science, who has experience building and scaling web applications and services in various domains. I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.`,
+    about: `I'm a motivated second year student currently studying Cellular, Physiological & Anatomical Sciences and Computer Science, with experience building and scaling web applications and services in various domains. I'm also passionate about open-source contributions, working in high impact environments, and helping growing development teams build great products.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -25,7 +25,7 @@ module.exports = {
         link: 'https://github.com/emilyychenn/DIANTHUS',
       },
       {
-        name: 'pyLeafletTiler',
+        name: 'PyLeafletTiler',
         description:
           'Application to create tiles of histo images to allow display using the [Leaflet Javascript Library](https://leafletjs.com/)',
         link: 'https://git.sarlab.ca/DrSAR/pyleaflettiler',
@@ -46,36 +46,36 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'CPSC 110 Teaching Assistant - Department of Computer Science',
+        name: 'CPSC 110 Undergraduate Teaching Assistant - Department of Computer Science',
         description: 'University of British Columbia, September 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=110',
       },
       {
         name: 'Research Assistant - SAR Lab',
         description: 'University of British Columbia, May 2020 - August 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://pfeifer.phas.ubc.ca/wiki/doku.php?id=wiki:user:stefan',
       },
       {
         name: 'Volunteer Scratch and Web Development Instructor',
         description: 'C.O.D.E. Initiative, July 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://www.thecodeinitiative.ca/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Frontend',
         description:
-          'Java, Python, C++, HTML, CSS, JavaScript',
+          'HTML, CSS, JavaScript, Bootstrap, Wordpress, Responsive Design',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Backend',
+        description: 'Java (+ JUnit Testing), Python, C++, C (learning), Git',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'MATLAB, Arduino, Racket, R (learning)',
       },
     ],
   },

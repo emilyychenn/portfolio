@@ -42,17 +42,17 @@ module.exports = {
       {
         name: 'CPSC 110 Teaching Assistant - Department of Computer Science',
         description: 'University of British Columbia, September 2020 - Present',
-        // link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'Research Assistant - SAR Lab',
         description: 'University of British Columbia, May 2020 - August 2020',
-        // link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'Volunteer Scratch and Web Development Instructor',
         description: 'C.O.D.E. Initiative, July 2020 - Present',
-        // link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.

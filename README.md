@@ -3,7 +3,7 @@
 Created from the Devfolio template by @RyanFitzgerald. Devfolio is a template built on GatsbyJS and styled with TailwindCSS. 
 
 ## About Me
-- Second year student at the University of British Columbia, studying Cellular, Anatomical and Physiological Sciences and Computer Science.
+- Second year student at the University of British Columbia: studying Cellular, Anatomical and Physiological Sciences and Computer Science.
 - Visit my website for more info: 
 
 ## Personal Info
